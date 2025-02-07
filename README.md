@@ -4,7 +4,7 @@ Questo progetto è un **clone di Spotify** che permette di cercare artisti e vis
 L'interfaccia è stata sviluppata con **Bootstrap**, **JavaScript** e **CSS**, ed è attualmente ottimizzata **solo per dispositivi con larghezza superiore a 1024px**.
 
 <p align="center">
-    <img src="" alt="Cover" width="100%" />
+    <img src="https://github.com/henry8913/4_JavaScript-Advanced-CH2/blob/main/logo/Spotify.gif" alt="Cover" width="100%" />
 </p>
 
 ---
