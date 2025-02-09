@@ -13,8 +13,9 @@ L'interfaccia è stata sviluppata con **Bootstrap**, **JavaScript** e **CSS**, e
 - 🔍 **Ricerca brani**: Gli utenti possono cercare artisti e visualizzare i loro brani.
 - 🎶 **Sezioni predefinite**: Al caricamento della pagina, vengono mostrati i brani di **Eminem, Metallica e Queen**.
 - 🏷️ **Visualizzazione degli album**: Le copertine degli album sono mostrate con i titoli delle tracce.
-- 🎧 **Design per desktop**: Il layout è stato sviluppato per funzionare **solo su schermi con larghezza superiore a 1024px**.
+- 🎧 **Widget per la riproduzione**: Ogni brano è accompagnato da un player integrato di **Deezer** per l'ascolto immediato.
 - 📌 **Sidebar e navigazione**: Una barra laterale per navigare tra le diverse sezioni del sito.
+- 🖥️ **Design per desktop**: Il layout è stato sviluppato per funzionare **solo su schermi con larghezza superiore a 1024px**.
 
 ---
 
@@ -42,7 +43,7 @@ L'interfaccia è stata sviluppata con **Bootstrap**, **JavaScript** e **CSS**, e
    git clone https://github.com/henry8913/4_JavaScript-Advanced-CH2.git
    ```
 2. **Apri `index.html` nel browser**  
-3. **Effettua una ricerca** e visualizza i risultati.  
+3. **Effettua una ricerca** e visualizza i risultati con il **player Deezer integrato**.  
 
 🔹 Il progetto è completamente **client-side**, quindi non necessita di un server per essere eseguito.
 
@@ -52,22 +53,6 @@ L'interfaccia è stata sviluppata con **Bootstrap**, **JavaScript** e **CSS**, e
 🚨 **Il sito NON è ancora ottimizzato per dispositivi mobili o tablet**.  
 📌 Attualmente, il design funziona correttamente **solo su schermi sopra i 1024px**.  
 📌 Il supporto per risoluzioni più piccole sarà aggiunto in futuro con layout responsive.  
-
----
-
-## ## JavaScript Avanzato
-
-**JavaScript** è un linguaggio dinamico e in continua evoluzione, essenziale per lo sviluppo di applicazioni web moderne.  
-Esploreremo i concetti avanzati e le tecniche fondamentali per scrivere codice efficiente, scalabile e interattivo.  
-Impareremo a costruire applicazioni moderne connesse al cloud e API esterne utilizzando AJAX.  
-Approfondiremo concetti avanzati e best practice per lo sviluppo di codice efficiente e scalabile.
-
-### Argomenti trattati:
-- **Design Patterns in JavaScript**: Strutture e metodologie per organizzare il codice in modo modulare e manutenibile.
-- **ES5**: Fondamenti della versione ECMAScript 5 e compatibilità con i browser.
-- **ES6 e successivi**: Nuove funzionalità del linguaggio, tra cui let/const, arrow functions, template literals e moduli.
-- **Programmazione Asincrona**: Tecniche per la gestione dell’esecuzione parallela e asincrona del codice.
-- **AJAX e Promises**: Interazione con API esterne per la creazione di applicazioni dinamiche e reattive.
 
 ---
 
@@ -89,4 +74,6 @@ Contributi e suggerimenti sono i benvenuti! Apri una **issue** o fai un **pull r
 
 ## 🐟 Licenza
 Questo progetto è sotto licenza **MIT** - Sentiti libero di modificarlo e migliorarlo! 🎵🔥
+
+
 
